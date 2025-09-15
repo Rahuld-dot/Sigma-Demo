@@ -1,2 +1,2 @@
 # Sigma-Demo
-This is a learning go Git &amp; Github
+This is a learning go Git &amp; Github.
